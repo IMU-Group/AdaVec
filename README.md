@@ -4,8 +4,6 @@ Official implementation of **AdaVec**, from the following paper:
 
 Less is More: Efficient Image Vectorization with Adaptive Parameterization, CVPR 2025
 
-[[Project Website](https://zhaokaibo830.github.io/adavec/)]
-
 [[`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Less_is_More_Efficient_Image_Vectorization_with_Adaptive_Parameterization_CVPR_2025_paper.pdf)] [[`Video`](https://www.youtube.com/watch?v=xU0K1fO8CVM)] [[`Project`](https://zhaokaibo830.github.io/adavec/)] [[`BibTeX`](#Reference)]
 
 ![![title]](imgs/pipeline.png?raw=true)
