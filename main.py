@@ -1,5 +1,4 @@
 import json
-
 from segment_anything import sam_model_registry, SamAutomaticMaskGenerator, SamPredictor
 import cv2
 import matplotlib.pyplot as plt
