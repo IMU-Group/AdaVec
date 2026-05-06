@@ -17,7 +17,6 @@ from tqdm import tqdm
 import skimage
 import skimage.io
 from geometric_loss import GeometryLoss
-from path_simple import path_simple
 import copy
 import random
 from shape_area import shapes_area
